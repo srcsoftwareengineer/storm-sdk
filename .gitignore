@@ -10,3 +10,4 @@ build/
 *.pyenv/
 *.pytest_cache/
 *.mypy_cache/
+storm_raffle_portal/
