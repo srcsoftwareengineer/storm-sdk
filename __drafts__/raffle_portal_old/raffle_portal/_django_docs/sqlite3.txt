@@ -1,5 +1,0 @@
-https://docs.djangoproject.com/pt-br/5.2/ref/databases/#sqlite-notes
-
-https://www.sqlite.org/c3ref/sqlite3.html
-
-https://www.sqlite.org/isolation.html
